@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrew Justice Chukwuweike</h1>
 <h3 align="center">Welcome Boss! what can Andrew - aka D'unaware do for you?</h3>
 
-<img align = "right" alt="futuristic" width="400" src="https://giphy.com/gifs/animation-animated-tech-l3mZnuz4coJp8EBBm">
+
+<img align="right" alt="futuristic" width="400" src="https://images.app.goo.gl/i7FoAzEiXRFJdkzZ9">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unawarexi&label=Profile%20views&color=0e75b6&style=flat" alt="unawarexi" /> </p>
 
@@ -30,8 +32,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@d_unaware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@d_unaware" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrew.j chukwuweike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew.j chukwuweike" height="30" width="40" /></a>
-<a href="https://instagram.com/@d.unaware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@d.unaware" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/andrew-j-chukwuweike-se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrew-j-chukwuweike-se" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/d.unaware?igshid=mgnindi5ztu=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/d.unaware?igshid=mgnindi5ztu=" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
