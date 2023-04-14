@@ -1,3 +1,4 @@
+![logo](https://github.com/unawarexi/unawarexi/blob/master/banner.jpg)
 <h1 align="center">Hi 👋, I'm Andrew Justice Chukwuweike</h1>
 <h3 align="center">Welcome Boss! what can Andrew - aka D'unaware do for you?</h3>
 
