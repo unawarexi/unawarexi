@@ -1,7 +1,7 @@
 <img align="right" alt="futuristic" width="100%" height="300px" src="https://github.com/unawarexi/unawarexi/blob/master/future.gif">
 
 <h1 align="center" padding="30px">Hi 👋, I'm Andrew Justice Chukwuweike</h1>
-<h3 align="center">Welcome Boss! what can Andrew - aka D'unaware do for you?</h3>
+<h3 align="center">Welcome Boss! what can Andrew - do for you?</h3>
 
 
 <img align="right" alt="futuristic" width="100%" height="100px" src="https://github.com/unawarexi/unawarexi/blob/master/banner.jpg">
@@ -13,19 +13,19 @@
 
 <p align="left"> <a href="https://twitter.com/@d_unaware" target="blank"><img src="https://img.shields.io/twitter/follow/@d_unaware?logo=twitter&style=for-the-badge" alt="@d_unaware" /></a> </p>
 
-- 🔭 I’m currently working on **my: javascript skills, ALX-S.E.**
+- 🔭 I’m currently enhancing **my: javascript and flutter skills**
 
 - 🌱 I’m currently learning **Everything that's important**
 
 - 👯 I’m looking to collaborate on **frontend or backend roles**
 
-- 🤝 I’m looking for help with **internship and employment**
+- 🤝 I’m looking for help with **internship and job**
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
+- 👨‍💻 All of my projects are available at https://andrewcorp.netlify.app
 
-- 💬 Ask me about **my take on marriage**
+- 💬 Ask me about **my take on Artificial Intelligence**
 
-- 📫 How to reach me **just.andrew001@gmail.com**
+- 📫 How to reach me **just.andrew.ckw@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qusGCZxS8Lkhnk1GyFPz7_BA7LkRnLm0/view?usp=drivesdk](https://drive.google.com/file/d/1qusGCZxS8Lkhnk1GyFPz7_BA7LkRnLm0/view?usp=drivesdk)
 
