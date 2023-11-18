@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/d_unaware" target="blank"><img src="https://img.shields.io/twitter/follow/d_unaware?logo=twitter&style=for-the-badge" alt="d_unaware" /></a> </p>
 
-  <img align="right" width="400" alt="gif" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif"> 
+  <img align="right" width="600" alt="gif" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif"> 
 
 - 🌱 I’m currently learning **Flutter and Dart, Software skills**
 
