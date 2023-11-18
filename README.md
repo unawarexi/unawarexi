@@ -31,6 +31,8 @@
 
 - ⚡ Fun fact **i got fatter while gyming, i know right!!!**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
 <a href="https://x.com/@d_unaware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@d_unaware" height="33" width="45" /></a>
@@ -38,8 +40,12 @@
 <a href="https://instagram.com/the_andrewscorp?igshid=YTQwZjQ0NmI0OA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/the_andrewscorp?igshid=YTQwZjQ0NmI0OA==" height="33" width="45" /></a>
 </p>
 
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
-<div background="#fff" align="left" display="grid" > 
+<div background="#fff" align="left" padding-bottom="2rem" > 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="25" height="35" background="white"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"width="25" height="35"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="35"/> </a>
@@ -65,6 +71,10 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="35"/> </a> 
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="25" height="35"/> </a> 
 </div>
+
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unawarexi&show_icons=true&locale=en&layout=compact" alt="unawarexi" /></p>
 
