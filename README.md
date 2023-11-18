@@ -4,11 +4,24 @@
  <img align="center" width="100%" alt="gif" src="https://1.bp.blogspot.com/-cVAHjgr9fV4/W7S5fiIad7I/AAAAAAAAAEQ/rElkL2oR_FgKsf37y2f-IL93nrXN-7shQCLcBGAs/s640/Website-Development-Company-Jabalpur.jpg"> 
 <h3 align="center">Welcome! how can i be of service to you and your business?</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unawarexi&label=Profile%20views&color=0e75b6&style=flat" alt="unawarexi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unawarexi" alt="unawarexi" /></a> </p>
 
+
+<h5 align="center"> 🌐 Software developer | Full-stack Professional | Mobile developer | Website developer </h5>
+
+
+<p>
+I'm absolutely hooked on continuous learning about tech and life — it's my passion. I get a real sense of satisfaction by creating web scripts, tinkering with static websites, and embracing this unstoppable journey of learning.  My insatiable appetite for learning has propelled me toward an accomplishable career as a Full Stack professional exploring the coolest tools and tech out there.
+
+I'm your person for web and mobile development. I play around with all sorts of tools, frameworks, and libraries on both the frontend and backend. I'm all about those tiny details that add a touch of magic to the best products out there.
+</p>
+
 <p align="left"> <a href="https://twitter.com/d_unaware" target="blank"><img src="https://img.shields.io/twitter/follow/d_unaware?logo=twitter&style=for-the-badge" alt="d_unaware" /></a> </p>
+
 
   <img align="right" width="300" alt="gif" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif"> 
 
