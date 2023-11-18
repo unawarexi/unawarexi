@@ -1,6 +1,8 @@
- <img align="center" width="200" alt="gif" src="![mine 3](https://github.com/unawarexi/unawarexi/assets/116230309/f9e31957-e92f-41df-ae55-69f10e6ff62e)"> 
+ <img align="right" width="40%" height="200px" alt="gif" src="https://media.giphy.com/media/3o7TKJNFVZ4xCMriFy/giphy.gif"> 
 <h1 align="center">Hi 👋, I'm Andrew Justice Chukwuweike</h1>
-<h3 align="center">Welcome how can i be of service to you and your business?</h3>
+
+ <img align="center" width="100%" alt="gif" src="https://1.bp.blogspot.com/-cVAHjgr9fV4/W7S5fiIad7I/AAAAAAAAAEQ/rElkL2oR_FgKsf37y2f-IL93nrXN-7shQCLcBGAs/s640/Website-Development-Company-Jabalpur.jpg"> 
+<h3 align="center">Welcome! how can i be of service to you and your business?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unawarexi&label=Profile%20views&color=0e75b6&style=flat" alt="unawarexi" /> </p>
 
@@ -8,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/d_unaware" target="blank"><img src="https://img.shields.io/twitter/follow/d_unaware?logo=twitter&style=for-the-badge" alt="d_unaware" /></a> </p>
 
-  <img align="right" width="200" alt="gif" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif"> 
+  <img align="right" width="300" alt="gif" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif"> 
 
 - 🌱 I’m currently learning **Flutter and Dart, Software skills**
 
