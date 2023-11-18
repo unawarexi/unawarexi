@@ -1,3 +1,4 @@
+![mine 3](https://github.com/unawarexi/unawarexi/assets/116230309/f9e31957-e92f-41df-ae55-69f10e6ff62e)
 <h1 align="center">Hi 👋, I'm Andrew Justice Chukwuweike</h1>
 <h3 align="center">Welcome how can i be of service to you and your business?</h3>
 
@@ -24,6 +25,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qusGCZxS8Lkhnk1GyFPz7_BA7LkRnLm0/view?usp=drivesdk](https://drive.google.com/file/d/1qusGCZxS8Lkhnk1GyFPz7_BA7LkRnLm0/view?usp=drivesdk)
 
 - ⚡ Fun fact **I read alot when stressed. kinda wierd**
+
+  <img align="right" width="400" alt="gif" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
