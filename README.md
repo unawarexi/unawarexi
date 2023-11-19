@@ -1,5 +1,5 @@
- <img align="right" width="40%" height="100%" alt="gif" src="https://media.giphy.com/media/3o7TKJNFVZ4xCMriFy/giphy.gif"> 
-<h1 align="center">Hi 👋, I'm Andrew Justice Chukwuweike</h1>
+ <img align="right" width="40%" height="120px" alt="gif" src="https://media.giphy.com/media/3o7TKJNFVZ4xCMriFy/giphy.gif"> 
+<h3 align="center">Hi 👋, I'm Andrew Justice Chukwuweike</h3>
 
  <img align="center" width="100%" alt="gif" src="https://1.bp.blogspot.com/-cVAHjgr9fV4/W7S5fiIad7I/AAAAAAAAAEQ/rElkL2oR_FgKsf37y2f-IL93nrXN-7shQCLcBGAs/s640/Website-Development-Company-Jabalpur.jpg"> 
 <h3 align="center">Welcome! how can i be of service to you and your business?</h3>
