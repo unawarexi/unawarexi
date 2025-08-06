@@ -12,8 +12,9 @@
 
 <div align="center">
 
-### 🚀 **Turning Complex Ideas Into Scalable Digital Reality**
+### **Turning Complex Ideas Into Scalable Digital Reality**
 
+<img src="https://komarev.com/ghpvc/?username=unawarexi&label=Profile%20Views&color=9D4EDD&style=for-the-badge" alt="Profile Views" />
 <table>
 <tr>
 <td>
@@ -29,9 +30,9 @@
 </tr>
 </table>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6A0DAD?style=for-the-badge&logoColor=white)](https://andrewcorp.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6A0DAD?style=for-the-badge&logoColor=white)](https://dev-andrewcorp.onrender.com/)
 [![Gmail](https://img.shields.io/badge/📧_Email-9D4EDD?style=for-the-badge&logoColor=white)](mailto:chukwuweike.work@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-8B5A8C?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1qusGCZxS8Lkhnk1GyFPz7_BA7LkRnLm0/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/📄_Resume-8B5A8C?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1jb4Zm_mv-Shcp5VYv-rfJ2qWipObS5p6/view?usp=drive_link)
 
 </div>
 
@@ -54,11 +55,11 @@
 ---
 
 
-## 🛠️ **Tech Arsenal & Expertise**
+## **Tech Arsenal & Expertise**
 
 <div align="center">
 
-### 🎨 **Frontend Mastery**
+### **Frontend Mastery**
 <div style="background: linear-gradient(135deg, #2D1B69 0%, #6A4C93 100%); border-radius: 15px; padding: 20px; margin: 10px;">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=2D1B69)
@@ -70,7 +71,7 @@
 
 </div>
 
-### 🏗️ **Backend Database & Systems**
+### **Backend Database & Systems**
 <div style="background: linear-gradient(135deg, #6A4C93 0%, #9D4EDD 100%); border-radius: 15px; padding: 20px; margin: 10px;">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=6A4C93)
@@ -87,7 +88,7 @@
 
 </div>
 
-### ⛓️ **Blockchain & Web3**
+### **Blockchain & Web3**
 <div style="background: linear-gradient(135deg, #9D4EDD 0%, #C77DFF 100%); border-radius: 15px; padding: 20px; margin: 10px;">
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=9D4EDD)
@@ -98,7 +99,7 @@
 
 </div>
 
-### 💻 **Core Styling & UI**
+### **Core Styling & UI**
 <div style="background: linear-gradient(135deg, #C77DFF 0%, #E0AAFF 100%); border-radius: 15px; padding: 20px; margin: 10px;">
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=C77DFF)
@@ -108,7 +109,7 @@
 
 </div>
 
-### 🔧 **DevOps & Tools**
+### **DevOps & Tools**
 <div style="background: linear-gradient(135deg, #E0AAFF 0%, #2D1B69 100%); border-radius: 15px; padding: 20px; margin: 10px;">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=E0AAFF)
@@ -154,7 +155,7 @@
 
 ---
 
-## 🚀 **Featured Projects**
+## **Featured Projects**
 
 <div align="center">
 
@@ -230,7 +231,7 @@
 
 ---
 
-## 🎯 **Current Focus & Opportunities**
+## **Current Focus & Opportunities**
 
 <div align="center">
 
@@ -261,7 +262,7 @@
 
 ---
 
-## 🌐 **Connect & Collaborate**
+## **Connect & Collaborate**
 
 <div align="center">
   
@@ -278,14 +279,6 @@
 ### 💜 **"We Code. We Make Mistakes. We Grow."**
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,25,27&height=100&section=footer"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,25,27&height=100&section=footer&text=✨%20Building%20the%20future,%20one%20commit%20at%20a%20time%20✨&fontColor=fff&fontSize=16"/>
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=unawarexi&label=Profile%20Views&color=9D4EDD&style=for-the-badge" alt="Profile Views" />
-  
-  **✨ Building the future, one commit at a time ✨**
 </div>
