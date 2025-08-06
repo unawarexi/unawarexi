@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unawarexi" alt="unawarexi" /></a> </p>
 
 
-<h5 align="center"> 🌐 Software developer | Full-stack Professional | Mobile developer | Website developer </h5>
+<h5 align="center"> 🌐 Software developer | Full-stack BlockChain - Smartcontract | Mobile developer | Website developer </h5>
 
 
 <p>
@@ -35,7 +35,7 @@ I'm your person for web and mobile development. I play around with all sorts of 
 
 - 📝 I regularly write articles on [coming soon](coming soon)
 
-- 💬 Ask me about my opinions on **Artificial Intelligence**
+- 💬 Ask me about my opinions on **Artificial Intelligence and Blockchain**
 
 - 📫 How to reach me **just.andrew.ckw@gmail.com**
 
@@ -53,7 +53,7 @@ I'm your person for web and mobile development. I play around with all sorts of 
 <p>
  🧐Extra Knowledge of:
 
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `Data structures and algorithms`, `Mobile design`, `Documentation`, `Redux`, `Network`, `Computer techinician`.
+`Responsive design`, `DOM`, `Styled Components`, `State-management`, `Enzyme`, `cross-platform`, `3rd Party API`, `Object-Oriented Programming`, `Data structures and algorithms`, `Mobile design`, `Documentation`, `Redux`, `Network`, `Computer techinician`.
 </p> <br><br>
 
 
