@@ -1,7 +1,7 @@
  <img align="right" width="40%" height="120px" alt="gif" src="https://media.giphy.com/media/3o7TKJNFVZ4xCMriFy/giphy.gif"> 
 <h3 align="center">Hi 👋, I'm Andrew Justice Chukwuweike</h3>
 
- <img align="center" width="100%" alt="gif" src="https://cdn.pixabay.com/photo/2018/05/16/15/27/business-people-3406077_1280.jpg"> 
+ <img align="center" width="100%" alt="gif" src="https://media.licdn.com/dms/image/v2/D4D16AQGRBwBuEBh2JQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715368079770?e=1757548800&v=beta&t=-BwRXO2CcKhJNlPQMcfUSxOdAWroTTK5pLYwv9b3hhk"> 
 <h3 align="center">Welcome! how can i be of service to you and your business?</h3>
 
 
