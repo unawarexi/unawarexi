@@ -49,7 +49,7 @@
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=unawarexi&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0E6ED&border_color=6A4C93"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unawarexi&layout=compact&langs_count=10&theme=midnight-purple&border_radius=15&bg_color=0D1117&title_color=9D4EDD&text_color=E0E6ED&border_color=6A4C93"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=unawarexi&theme=midnight-purple&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakLabel=E0E6ED&border_radius=15&border_color=6A4C93" alt="GitHub Streak"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=unawarexi&theme=midnight-purple&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakLabel=E0E6ED&border_radius=15" alt="GitHub Streak"/>
 </div>
 
 ---
