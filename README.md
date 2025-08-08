@@ -57,9 +57,9 @@
 
 ## **Tech Arsenal & Expertise**
 
-<div align="center">
+<div align="start">
 
-### **Frontend Mastery**
+#### **Frontend Mastery**
 <div style="background: linear-gradient(135deg, #2D1B69 0%, #6A4C93 100%); border-radius: 15px; padding: 20px; margin: 10px;">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=2D1B69)
@@ -71,7 +71,7 @@
 
 </div>
 
-### **Backend Database & Systems**
+#### **Backend Database & Systems**
 <div style="background: linear-gradient(135deg, #6A4C93 0%, #9D4EDD 100%); border-radius: 15px; padding: 20px; margin: 10px;">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=6A4C93)
@@ -88,7 +88,7 @@
 
 </div>
 
-### **Blockchain & Web3**
+#### **Blockchain & Web3**
 <div style="background: linear-gradient(135deg, #9D4EDD 0%, #C77DFF 100%); border-radius: 15px; padding: 20px; margin: 10px;">
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=9D4EDD)
@@ -99,7 +99,7 @@
 
 </div>
 
-### **Core Styling & UI**
+#### **Core Styling & UI**
 <div style="background: linear-gradient(135deg, #C77DFF 0%, #E0AAFF 100%); border-radius: 15px; padding: 20px; margin: 10px;">
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=C77DFF)
@@ -109,7 +109,7 @@
 
 </div>
 
-### **DevOps & Tools**
+#### **DevOps & Tools**
 <div style="background: linear-gradient(135deg, #E0AAFF 0%, #2D1B69 100%); border-radius: 15px; padding: 20px; margin: 10px;">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=E0AAFF)
@@ -201,13 +201,13 @@
 
 <div align="center">
 
-### 🌟 **Recent Roles**
+##### **Recent Roles**
 
 <table width="100%">
 <tr>
 <td>
 
-**🚀 Frontend Mobile Flutter Developer**  
+**Lead Fullstack Mobile Flutter Developer**  
 *Pickload Logistics* • `2024-2025`
 - Deployed to **Google Play & App Store** with seamless CI/CD
 - Integrated **Paystack** payment gateway with multiple options
@@ -217,7 +217,7 @@
 </td>
 <td>
 
-**⚡ Frontend Mobile Flutter Developer**  
+**Lead Mobile Flutter Developer**  
 *Zidio Technologies* • `2023-2024`
 - Mentored junior developers in **modern Flutter** practices
 - Specialized in **API integration** and responsive UI design
@@ -229,15 +229,14 @@
 
 </div>
 
----
 
-## **Current Focus & Opportunities**
+#### **Current Focus & Opportunities**
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="start">
 
 ### 🌱 **What I'm Building**
 - **Advanced Flutter** architectures
@@ -246,7 +245,7 @@
 - **AI-powered** mobile experiences
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="start">
 
 ### 🤝 **Let's Collaborate On**
 - **Mobile app** development projects
