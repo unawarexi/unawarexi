@@ -3,6 +3,9 @@
  
  <h5 align="center"> **Full-Stack Mobile Developer** | **Blockchain Engineer** | **4+ Years Experience** </h5> 
 
+ <p align="center"> <img src="https://www.freepik.com/free-photo/laptop-with-glowing-screen-table-dark-top-view-copy-space_160645749.htm#fromView=keyword&page=1&position=0&uuid=b0518e86-a1f9-4c32-8d8a-b8153e7f17b8&query=Developer+banner" alt="banner-image" style="width:100%; height:auto;"/> </p>
+
+
 Building scalable cross-platform applications with Flutter, React Native, and Web3 integration. Specialized in high-performance mobile solutions serving thousands of users.
 
 📍 Lagos, Nigeria , 📧 chukwuweike.work@gmail.com | 🌐 [Portfolio](https://dev-andrewcorp.onrender.com/) | [Resume](https://drive.google.com/file/d/1-WvkOcaD6PORXeTos-Q4U6F1BVPO55Jo/view?usp=drive_link) | [LinkedIn](https://linkedin.com/in/andrew-j-chukwuweike-se) 
